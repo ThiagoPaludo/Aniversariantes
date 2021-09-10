@@ -1,0 +1,7 @@
+Parâmetros de conexão com servidor SMTP:
+servidor = [smtp.gmail.com]
+porta = [587]
+login = [endereco@email.com.br]
+senha = [senha do email]
+remetente = [SISTEMAS DURLICOUROS]
+assunto = [Aniversariantes do dia]

@@ -1,0 +1,5 @@
+Parâmetros para acesso ao banco de dados.
+server   = [ip do servidor]
+database = [nome do DB]
+username = [usuario de acesso ao servidor]
+password = [senha]
